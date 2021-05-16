@@ -1,8 +1,14 @@
 # Dactyl ManuForm Mini Keyboard
 
-This is a fork of the [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard). The Dactyl-Manuform is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard) with the thumb cluster from [ManuForm](https://github.com/jeffgran/ManuForm).
+This is another fork of [Dactyl Manuform Mini](https://github.com/l4u/dactyl-manuform-mini-keyboard), which is a fork of the [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard). The Dactyl-Manuform is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard) with the thumb cluster from [ManuForm](https://github.com/jeffgran/ManuForm).
 
-Build log: https://www.beekeeb.com/dactyl-manuform-mini-mechanical-keyboard-build-log/
+Build guide: https://soemarko.com/blog/dactyl-manuform-keyboard-build-guide
+
+## Differences from the original Mini
+
+1. Thicker shell. Original was designed for SLA printer, making it thicker will make it stronger and stiffer for FDM.
+2. Plate mounted TRRS Jack. Easier to source, easier to solder than surface mount parts.
+3. Accomodate the Micro USB Extension Module for the thicker shell. Pro tip: if you diff this and the original source, it'll be much easier to change the source for a USB-C Module.
 
 ## Forks
 
